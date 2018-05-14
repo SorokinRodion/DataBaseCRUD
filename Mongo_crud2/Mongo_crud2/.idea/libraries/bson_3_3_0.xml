@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bson-3.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongo4idea-0.10.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-nop-1.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
